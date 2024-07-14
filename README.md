@@ -10,6 +10,8 @@ This repository contains the implementation of two key machine learning projects
 1. **Movie Recommender System**: A personalized movie recommendation system using Singular Value Decomposition (SVD) and Latent Factor Models (LFM).
 2. **IM2SPAIN: Geo-location Prediction using k-NN**: A geo-location prediction system utilizing k-Nearest Neighbors (k-NN) to estimate the latitude and longitude of images based on their CLIP embeddings.
 
+See "**solution_writeup.pdf**" for graphs and performance evalution. See "**hw7.pdf**" for project description.
+
 ## Deliverables
 
 ### Movie Recommender System
