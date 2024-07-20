@@ -17,21 +17,21 @@ See "**solution_writeup.pdf**" for graphs and performance evalution. See "**hw7.
 ### Movie Recommender System
 
 1. **Training the Model**:
-    - Train a personalized movie recommendation model using SVD and LFM.
-    - Evaluate the model's performance using Mean Squared Error (MSE), training accuracy, and validation accuracy.
+    - Trained a personalized movie recommendation model using SVD and LFM.
+    - Evaluated the model's performance using Mean Squared Error (MSE), training accuracy, and validation accuracy.
 
 2. **Optimal Dimensionality Reduction**:
-    - Determine the optimal number of dimensions \( d \) for feature vectors.
-    - Compare training and validation accuracies for different values of \( d \).
+    - Determined the optimal number of dimensions \( d \) for feature vectors.
+    - Compared training and validation accuracies for different values of \( d \).
 
 ### IM2SPAIN: Geo-location Prediction
 
 1. **Data Visualization**:
-    - Visualize image locations and apply Principal Component Analysis (PCA) to image features.
+    - Visualized image locations and applied Principal Component Analysis (PCA) to image features.
 
 2. **k-NN Regression**:
-    - Implement k-NN regression to predict image geo-locations.
-    - Evaluate the performance using Mean Displacement Error (MDE) and determine the optimal number of neighbors \( k \).
+    - Implemented k-NN regression to predict image geo-locations.
+    - Evaluated the performance using Mean Displacement Error (MDE) and determine the optimal number of neighbors \( k \).
 
 ## Installation
 
