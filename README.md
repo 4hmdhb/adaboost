@@ -39,7 +39,7 @@ To set up this project on your local machine, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    https://github.com/4hmdhb/adaboost.git
+    git clone https://github.com/4hmdhb/adaboost.git
     cd adaboost
     ```
 
