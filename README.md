@@ -49,10 +49,6 @@ To set up this project on your local machine, follow these steps:
     source env/bin/activate  # On Windows use `env\Scripts\activate`
     ```
 
-3. **Install the required dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 
@@ -86,15 +82,5 @@ To set up this project on your local machine, follow these steps:
         python im2spain_starter.py
         ```
     - This script will perform k-NN regression, plot the MDE vs. \( k \), and evaluate the performance.
-
-## Contributing
-
-We welcome contributions! Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -m 'Add your feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Create a new Pull Request.
 
 ---
