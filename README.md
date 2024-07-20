@@ -43,6 +43,9 @@ To set up this project on your local machine, follow these steps:
     cd adaboost
     ```
 
+    The download may take a time because I also uploaded pdfs with pictures and solution writeups.
+
+
 2. **Create and activate a virtual environment** (optional but recommended):
     ```bash
     python -m venv env
@@ -75,7 +78,6 @@ To set up this project on your local machine, follow these steps:
         ```bash
         python im2spain_visualize.py
         ```
-The download may take a time because I also uploaded pdfs with pictures and solution writeups.
 
 2. **Run k-NN for Geo-location Prediction**:
     - Modify the `im2spain_starter.py` script as needed and run:
