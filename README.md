@@ -63,6 +63,7 @@ To set up this project on your local machine, follow these steps:
         ```bash
         python movie_recommender.py
         ```
+    - This might take a while because it will train it locally   
     - This will produce the training MSE, training accuracy, and validation accuracy for various values of \( d \), and save the plots in the project directory.
 
 2. **Model Evaluation**:
